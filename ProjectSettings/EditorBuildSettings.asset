@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Car4.unity
     guid: bd5e32085cfbe9a4bb4e55b205c82e56
+  - enabled: 1
+    path: Assets/Scenes/kerosene.unity
+    guid: 65d74be8b58e48f48ba9fc324ba796c8
   m_configObjects: {}
